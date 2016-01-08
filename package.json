@@ -1,0 +1,14 @@
+{
+  "name": "froggyfrog-membership",
+  "author": "Lionel Delmo",
+  "description": "A Membership system patterned after Devise",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "mocha": "~2.3.4",
+    "should": "^8.0.2"
+  }
+}
